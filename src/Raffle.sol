@@ -6,7 +6,6 @@ import {VRFConsumerBaseV2} from "@chainlink/contracts/src/v0.8/VRFConsumerBaseV2
 
 /**
  * @title A sample Raffle Contract
- * @author Constantin Andrei Todirascu
  * @notice This contract is for creating a sample raffle
  * @dev Implements Chainlink VRFv2
  */
